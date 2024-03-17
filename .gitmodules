@@ -1,3 +1,6 @@
 [submodule "food-front"]
 	path = food-front
 	url = https://github.com/manish2344/food-front.git
+[submodule "task-client-company"]
+	path = task-client-company
+	url = https://github.com/manish2344/task-client-company.git
